@@ -29,11 +29,11 @@ const joke = [
     'What do you get when you cross-breed a shark and a cow? I have no idea but I wouldn’t try milking it.' 
 ];
 const God = [
-    'In monotheistic thought, God is conceived of as the supreme being, creator deity, and principal object of faith'
-    ,'God is usually conceived as being omniscient (all-knowing), omnipotent (all-powerful), omnipresent (all-present) and as having an eternal and necessary existence.'
+    'in monotheistic thought, god is conceived of as the supreme being, creator deity, and principal object of faith'
+    ,'god is usually conceived as being omniscient (all-knowing), omnipotent (all-powerful), omnipresent (all-present) and as having an eternal and necessary existence.'
 ];
 const love = [
-    'I am selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. if you can not handle me at my worst, then you sure as hell do not deserve me at my best'
+    'i am selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. if you can not handle me at my worst, then you sure as hell do not deserve me at my best'
     ,'Being deeply loved by someone gives you strength, while loving someone deeply gives you courage'
     ,'There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment'
 ];
