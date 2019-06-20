@@ -269,8 +269,8 @@ function readOutLoud(message){
 
    
     speech.volume = 200;
-    speech.rate = 0.9;
-    speech.amplitude = 150;
+    speech.rate = 1;
+    speech.amplitude = 1;
     
     //we need to call and listen to it
     window.speechSynthesis.speak(speech);
