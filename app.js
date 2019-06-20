@@ -147,18 +147,18 @@ function readOutLoud(message){
                      joke[Math.floor(Math.random() * joke.length)];
                      speech.text = finalText3;
     }
-    if(message.includes('who is God')) {
+    if(message.includes('who is god')) {
         const finalText3 =
                      God[Math.floor(Math.random() * God.length)];
                      speech.text = finalText3;
     }
-    if(message.includes('do you believe in God')) {
+    if(message.includes('do you believe in god')) {
         const finalText4 =
                      God[Math.floor(Math.random() * God.length)];
                      speech.text = finalText4;
     }
      
-    if(message.includes('is God real')) {
+    if(message.includes('is god real')) {
         const finalText5 =
                      God[Math.floor(Math.random() * God.length)];
                      speech.text = finalText3;
