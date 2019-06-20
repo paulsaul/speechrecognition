@@ -224,12 +224,12 @@ function readOutLoud(message){
                      loner[Math.floor(Math.random() * loner.length)];
                      speech.text = finalText16;
     }
-    if(message.includes('tell me about trump')) {
+    if(message.includes('tell me about Trump')) {
         const finalText17 =
                      trump[Math.floor(Math.random() * trump.length)];
                      speech.text = finalText17;
     }
-    if(message.includes('do you like trump')) {
+    if(message.includes('do you like Trump')) {
         const finalText18 =
                      like[Math.floor(Math.random() * like.length)];
                      speech.text = finalText18;
