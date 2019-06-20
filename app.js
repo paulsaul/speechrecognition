@@ -152,13 +152,13 @@ function readOutLoud(message){
                      God[Math.floor(Math.random() * God.length)];
                      speech.text = finalText3;
     }
-    if(message.includes('do you believe in god')) {
+    if(message.includes('do you believe in God')) {
         const finalText4 =
                      God[Math.floor(Math.random() * God.length)];
                      speech.text = finalText4;
     }
      
-    if(message.includes('is god real')) {
+    if(message.includes('is God real')) {
         const finalText5 =
                      God[Math.floor(Math.random() * God.length)];
                      speech.text = finalText3;
@@ -171,7 +171,7 @@ function readOutLoud(message){
     }
 
        
-    if(message.includes('i love you')) {
+    if(message.includes('I love you')) {
         const finalText7 =
                      love[Math.floor(Math.random() * love.length)];
                      speech.text = finalText7;
