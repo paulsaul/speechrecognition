@@ -8,7 +8,7 @@ const greetings = [
     'i am not so bad my self'
 ];
 const weather = [
-    'Weather is fine',
+    'you can check it out yourself',
     'Why do you need to know the weather, you rarely come outside the house. You lazy bastard.'
 
 ];
@@ -18,9 +18,9 @@ const name = [
 
 ];
 const jessy = [
-    'Yes my name',
-    'I am',
-    'Do not mention my name in vain'
+    'yes my name',
+    'i am',
+    'do not mention my name in vain'
 ];
 const joke = [
     'Women really know how to hold a grudge. My wife asked me to pass her a lip balm. And by mistake, I gave her a tube of Super Glue. It’s been a month now and she’s still not speaking to me'
