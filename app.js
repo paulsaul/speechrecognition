@@ -214,12 +214,12 @@ function readOutLoud(message){
                      opinion[Math.floor(Math.random() * opinion.length)];
                      speech.text = finalText14;
     }
-    if(message.includes('i am bored')) {
+    if(message.includes('I am bored')) {
         const finalText15 =
                      loner[Math.floor(Math.random() * loner.length)];
                      speech.text = finalText15;
     }
-    if(message.includes('i am lonely')) {
+    if(message.includes('I am lonely')) {
         const finalText16 =
                      loner[Math.floor(Math.random() * loner.length)];
                      speech.text = finalText16;
