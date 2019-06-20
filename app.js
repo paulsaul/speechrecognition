@@ -147,7 +147,7 @@ function readOutLoud(message){
                      joke[Math.floor(Math.random() * joke.length)];
                      speech.text = finalText3;
     }
-    if(message.includes('who is god')) {
+    if(message.includes('who is God')) {
         const finalText3 =
                      God[Math.floor(Math.random() * God.length)];
                      speech.text = finalText3;
@@ -178,7 +178,7 @@ function readOutLoud(message){
     }
 
            
-    if(message.includes('who is paul')) {
+    if(message.includes('who is Paul')) {
         const finalText8 =
                      paul[Math.floor(Math.random() * paul.length)];
                      speech.text = finalText8;
